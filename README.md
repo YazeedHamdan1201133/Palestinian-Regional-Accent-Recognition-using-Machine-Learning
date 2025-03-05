@@ -99,9 +99,9 @@ python KNN.py
 ```
 ### 3️⃣ Predict an Accent
 Each script provides an option to upload an audio file for prediction:
-The script will extract features from the uploaded file.
-It will predict the regional accent (Jerusalem, Hebron, Nablus, or Ramallah).
-The predicted accent will be displayed
+* The script will extract features from the uploaded file.
+* It will predict the regional accent (Jerusalem, Hebron, Nablus, or Ramallah).
+* The predicted accent will be displayed
 
 ## 📢 Conclusion
 This project successfully **classifies Palestinian accents** using **speech processing and machine learning**.
