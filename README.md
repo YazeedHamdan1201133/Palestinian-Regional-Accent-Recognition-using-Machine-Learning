@@ -120,6 +120,15 @@ This project successfully **classifies Palestinian accents** using **speech proc
 - **Tkinter** 🎤 (User File Selection for Accent Prediction)  
 
 ---
+## 👨‍💻 Authors
+This project was developed by:
+
+- **Yazeed Hamdan**
+- **Amal Butmah**
+- **Layan Shoukri**
+
+---
+
 
 ## 📫 Contact
 For any questions or discussions, feel free to reach out:
